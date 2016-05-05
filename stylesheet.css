@@ -2,10 +2,6 @@ body {
   background-color: #F1948A;
 }
 
-header {
-  width: 90em;
-  background-color:
-}
 
 h1 {
   text-align: center;
@@ -17,7 +13,7 @@ h1 {
 }
 
 video {
-  margin: 5px 25em;
+  margin: 5px 28%;
 }
 
 p {
@@ -28,13 +24,28 @@ p {
 img {
   width: 300px;
   height: 200px;
-  margin: 2em 31em;
+  margin: 0 33%;
 }
 
 h4 {
-  margin: 10px 42% 15px;
+  margin: 10px 0;
+  text-align: center;
 }
 
 footer {
   margin-top: 10px;
 }
+
+blockquote {
+  text-align: center;
+}
+
+figcaption {
+  margin: 0 33%;
+}
+
+/*figure {
+  width: 300px;
+  height: 200px;
+  margin: 2em 31em;
+}*/
