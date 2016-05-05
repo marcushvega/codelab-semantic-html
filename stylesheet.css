@@ -1,0 +1,40 @@
+body {
+  background-color: #F1948A;
+}
+
+header {
+  width: 90em;
+  background-color:
+}
+
+h1 {
+  text-align: center;
+}
+
+#topQuote{
+  text-align: center;
+  margin-bottom: 10px
+}
+
+video {
+  margin: 5px 25em;
+}
+
+p {
+  word-wrap: normal;
+  margin: 0 30% 0;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  margin: 2em 31em;
+}
+
+h4 {
+  margin: 10px 42% 15px;
+}
+
+footer {
+  margin-top: 10px;
+}
